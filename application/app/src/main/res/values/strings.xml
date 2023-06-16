@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CarCrashDetector</string>
+    <string name="main_text">Crash detection is running!</string>
+    <string name="between">…</string>
+    <!-- IMU_Fragment -->
+    <string name="imu">IMU</string>
+    <string name="imu_safe">safe</string>
+    <string name="imu_detected">detected!!</string>
+    <!-- Mic Fragment -->
+    <string name="mic">mic</string>
+    <string name="mic_activated">activated</string>
+    <string name="mic_safe">safe</string>
+    <string name="mic_deactivating">deactivating</string>
+    <string name="mic_detected">detected!!</string>
+    <!--Debugging-->
+    <string name="micOn">micOn</string>
+    <string name="imuOn">imuOn</string>
+    <string name="callEme">callEme</string>
+</resources>
